@@ -1,5 +1,5 @@
 #  About Me:
-Reverse engineering and malware analysis and other tasks....
+Reverse engineering and malware analysis and other fun tasks...
 
 
 ##  Socials:
