@@ -15,8 +15,6 @@ Reverse engineering and malware analysis and other tasks....
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CybRogue&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-### Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CybRogue&icon=2&color=0)](https://visitcount.itsvg.in)
